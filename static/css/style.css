@@ -570,7 +570,7 @@ footer {
     }
 }
 .index-logo {
-    display: none;
+    display: block;
     width: 40%; /* 图像宽度为父元素的40% */
     height: 0; /* 高度为0，通过padding-bottom保持宽高比 */
     padding-bottom: 40%; /* 保持宽高比为1:1 */
