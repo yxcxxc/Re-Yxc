@@ -833,7 +833,6 @@ hr.dashed {
       text-align: center;
       line-height: 50px; /* 垂直居中 */
       border-radius: 50%; /* 改为圆形 */
-      border-radius: 6px;
       cursor: pointer;
       transition: all 0.02s ease-in-out; /* 过渡效果 */
       
